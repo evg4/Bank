@@ -22,6 +22,8 @@ cd Bank
 ./gradlew test
 
 ```
+## Credits
+The idea for this project was provided in my Makers bootcamp.
 
 ## License
 
